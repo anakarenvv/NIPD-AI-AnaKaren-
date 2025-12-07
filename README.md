@@ -37,7 +37,7 @@ Whenever a notebook name contains:
 
 The helper class `FILES_and_LABELS` is responsible for building lists of NIfTI files and labels from:
 
-- **Raw BIDS-like data** (`RAW_ROOT`)
+- **Raw data** (`RAW_ROOT`)
 - **RABIES preprocessed outputs** (`RABIES_ROOT`)
 
 
