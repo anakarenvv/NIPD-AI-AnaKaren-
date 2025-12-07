@@ -22,9 +22,9 @@ This repository contains the code used to partially replicate a 3D VGG16-based c
 
   - `FEMALE_BLvsW7_tfdata.ipynb` → BL vs W7 using **tf.data** pipeline.
   - `FEMALE_BLvsW7_KerasG.ipynb` → BL vs W7 using **Keras generator**.  
-  - `FEMALE_BLvsW1_KerasG.ipynb` → BL vs W1 using **Keras generator**.  .
-  - MALE_BLvsW7_KerasG.ipynb` → BL vs W7 using **Keras generator**.  
-  -`MALE_BLvsW1_KerasG.ipynb` → BL vs W1 using **Keras generator**.  
+  - `FEMALE_BLvsW1_KerasG.ipynb` → BL vs W1 using **Keras generator**.  
+  - `MALE_BLvsW7_KerasG.ipynb` → BL vs W7 using **Keras generator**.
+  - `MALE_BLvsW1_KerasG.ipynb` → BL vs W1 using **Keras generator**.  
   
 
 Whenever a notebook name contains:
